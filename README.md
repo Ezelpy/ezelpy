@@ -6,6 +6,6 @@ This summer, I will be working as an Identity & Access Management Intern at Tuft
 
 Outside of school, I enjoy building and securing systems through projects. I currently maintain a self-hosted homelab environment with hardened services, including a web application (RubikTimer), a NAS server, and a public Minecraft server. 
 
-Previously, I worked on enterprise ERP systems and Android applications, contributing to legacy modernization, large-scale code migration, and internal business software development.
+Previously, I worked on enterprise ERP systems and Android applications, contributing to modernizing legacy systems, migrating codebases, and business software development.
 
 Apart from infrastructure and security, I also enjoy building web applications, experimenting with computer vision, and learning more about systems programming and low-level computing.
