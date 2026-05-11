@@ -10,8 +10,13 @@ Previously, I worked on enterprise ERP systems and Android applications, contrib
 
 Apart from infrastructure and security, I also enjoy building web applications, experimenting with computer vision, and learning more about systems programming and low-level computing.
 
-## Tech Stack
+## Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,cs,js,html,css,django,dotnet,docker,sqlite,linux,nginx,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,cs,js,django,dotnet,docker,postgres,linux,git" />
 </p>
+
+## Interests
+
+```txt
+Cybersecurity • Networking • Infrastructure • Systems • Web Development
