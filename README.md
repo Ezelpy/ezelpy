@@ -1,4 +1,4 @@
-## Hi I'm Ezequiel! 👋
+## Hi I'm Ezequiel!
 
 I'm a Junior at Tufts University studying Computer Science, interested in software engineering, networking, and cybersecurity.
 
