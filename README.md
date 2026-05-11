@@ -13,5 +13,5 @@ Apart from infrastructure and security, I also enjoy building web applications, 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,cs,js,html,css,django,dotnet,docker,postgres,sqlite,linux,nginx,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,cs,js,html,css,django,dotnet,docker,sqlite,linux,nginx,git,vscode" />
 </p>
