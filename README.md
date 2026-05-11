@@ -13,7 +13,7 @@ Apart from infrastructure and security, I also enjoy building web applications, 
 ## Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,cs,js,django,dotnet,docker,postgres,linux,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,cs,js,django,dotnet,docker,postgres,linux" />
 </p>
 
 ## Interests
